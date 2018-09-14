@@ -1,7 +1,10 @@
+## Linker Lab
+* CSCI-UA 202: Organization Systems
+* Lab 1
+* Implement a two-pass linker
+
+## Author
 Rebecca Hom
-rh2349
-CSCI-UA 202: Organization Systems
-Linker Lab
 
 -------------------------------
 HOW TO COMPILE & RUN THE PROGRAM
